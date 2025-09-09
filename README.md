@@ -321,14 +321,9 @@ Contains metadata and redacted values (actual matches not written).
 - Review and rotate any real secrets found  
 - Be mindful of scanning and storing reports for sensitive repositories  
 
----
-
-## License
-
-Add a license file if you plan to distribute (e.g., MIT).
 
 ---
 
-## Credits
+## Libraries
 
 Built with **Typer**, **Rich**, **Tkinter**, and optional **PyYAML**.
